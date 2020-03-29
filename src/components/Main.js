@@ -108,7 +108,7 @@ class Main extends React.Component {
             fill out the form or find me on a social media below, and I trust that we can
             work together to create the best product for your needs!
           </p>
-          <form name="contact" netifly method="post" action="#">
+          <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
