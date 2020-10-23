@@ -65,11 +65,10 @@ class Main extends React.Component {
             as well as other Dev-Ops certifications.
           </p>
           <p>
-            I work building, servicing, and repairing hardware as a small business 
-            and I'm well versed in software managment and general IT work. Whatever the work
-            may be from general maintenance to rebuilding, repairing, or replacement
-            I can make it happen. If you are in need of technological repair or upgrade,
-            please hit contact me and send me an email and we can get started working together!
+            I have worked building and servicing hardware as a small business for local
+            people and neighbours and I'm well versed in software managment and installation
+            and general IT work. I have built serveral PCs, and maintained systems in a 
+            resturaunt setting. I have also worked with all types of mobile devices and gaming devices.
           </p>
           {close}
         </article>
@@ -87,11 +86,12 @@ class Main extends React.Component {
           </span>
           <p>
             I have been a writer for almost a decade. Writing for personal stories,
-            long form podcast historical scripts, and infomative essays. I have had a love
-            of the RPG games, Dungeons and Dragons and PathFinder, and have written campaigns
+            long form podcast style histories or infomative essays. I have had a love
+            of the RPG games Dungeons and Dragons and PathFinder and have written campaigns
             and world building lore for a variety of settings and games. I am currently
             working on a journalism degree in order to find work and boost my resume. I work
-            on <a href="https://www.writers.work/xanderk">Writers Work</a>.<link to="/page-2/">Here is some of my work</link>
+            on <a href="https://www.writers.work/xanderk">Writers Work</a> as a way 
+            to demonstrate my portfolio.
           </p>
           {close}
         </article>
