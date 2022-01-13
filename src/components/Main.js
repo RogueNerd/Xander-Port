@@ -33,14 +33,14 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Hi! I'm Xander. Im a half Swedish half American, 19 year old,
-            computer science and journalism student. I have a variety of experience
-            Programming, Writing, and Computer Hardware Work. As well as having worked
-            as a Kitchen Manager. From running a kitchen during rush hour to designing,
-            creating, and implementing cloud servers I always utilize my heritage with
-            the minimalism and efficiency of the Scandinavian style and the work ethic
-            and persistence of the American way. I'll let my work speak for itself and
-            I hope that we can connect and get started working together.
+            I've spent the last 8 years honing my skills to become a jack of all trades
+            to best suit the businesses I've worked for, and provide a high skill, quick learning,
+            constantly improving employee.Whether managing a multi-million dollar a year resturant kitchen
+            to managing a hole in the wall pet store I can put my skills to work for you.
+            With a background of cloud computing and writing I prioritize using my skills
+            and work ethic to outperform expectations and help to build an efficient, and enjoyable work
+            environment!
+            
           </p>
           {close}
         </article>
