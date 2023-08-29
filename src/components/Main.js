@@ -33,13 +33,11 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            I've spent the last 8 years honing my skills to become a jack of all trades
-            to best suit the businesses I've worked for, and provide a high skill, quick learning,
-            constantly improving employee.Whether managing a multi-million dollar a year resturant kitchen
-            to managing a hole in the wall pet store I can put my skills to work for you.
-            With a background of cloud computing and writing I prioritize using my skills
-            and work ethic to outperform expectations and help to build an efficient, and enjoyable work
-            environment!
+          Hi! I’m Xander. I am a 23 year old who loves to learn and explore new things. I am a big D&D and fantasy nerd, nature lover, and a serial hobbyist. 
+          From wood working to building computers to reptile care and farming, I absolutely adore learning and developing my skills with whatever interests me.
+          I’ve spent 8 years honing my skills to become a Jack of all Trades employee to best support the businesses I’ve worked for. 
+          I’ve managed the kitchen of a multi million dollar restaurant to installing and am currently servicing networking infrastructure
+           for a multibillion dollar corporation I have the experience and skills to get the job done well.
             
           </p>
           {close}
@@ -65,11 +63,11 @@ class Main extends React.Component {
             as well as other Dev-Ops certifications.
           </p>
           <p>
-           I work building, servicing, and repairing hardware as a small business 
-            and I'm well versed in software managment and general IT work. Whatever the work
-            may be from general maintenance to rebuilding, repairing, or replacement
-            I can make it happen. If you are in need of technological repair or upgrade,
-            please hit contact me and send me an email and we can get started working together!
+           I have worked building, servicing, and repairing hardware for Best Buy 
+           as well as managing server and networking infrastructure in a dozen stores
+           across the US. Providing support for multimillion dollar stores to managing
+           the infrastructure of a Mom and Pop pet store I can provide support for any size
+           project you need.
           </p>
           {close}
         </article>
